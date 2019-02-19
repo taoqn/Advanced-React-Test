@@ -1,10 +1,3 @@
-![Advanced React & GraphQL](https://advancedreact.com/images/ARG/arg-facebook-share.png)
-
-=============================================
-https://github.com/wesbos/Advanced-React
-=============================================
-Visual primitives for the component age.
-=============================================
 Prisma replaces traditional ORMs https://www.prisma.io/
 EndPoint: https://eu1.prisma.sh/nguyen-dinh-tao-6dda05/sick-fits-taoqn/dev
 =============================================
@@ -22,6 +15,8 @@ Plugins:
  + Downshift: https://github.com/downshift-js/downshift
  + React Stripe Checkout Component: https://github.com/azmenak/react-stripe-checkout
  + Enzyme: https://airbnb.io/enzyme/
+
+
 =============================================
 Tools Visual Code:
  + vscode-styled-components: https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components
@@ -29,6 +24,8 @@ Tools Visual Code:
  + GraphQL: https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql
  + ESLint: https://github.com/Microsoft/vscode-eslint
  + Prettier: https://github.com/prettier/prettier-vscode
+
+
 =============================================
 Resources:
  + Mailtrap https://mailtrap.io
