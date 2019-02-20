@@ -6,3 +6,15 @@ secret: ${env:PRISMA_SECRET}
 hooks:
   post-deploy:
       - graphql get-schema -p prisma
+
+# FRONTEND_URL="http://localhost:7777"
+# PRISMA_ENDPOINT="https://eu1.prisma.sh/nguyen-dinh-tao-6dda05/sick-fits-taoqn/dev"
+# PRISMA_ENDPOINT="https://server-name-551625b64f.herokuapp.com/sick-fits-prod/prod?headers={%22Authorization%22:%22Bearer%20eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NTA3MTM5MzgsIm5iZiI6MTU1MDYyNzUzOH0.X-fIYF5ubpda4Ts-41J2WguS7E-pfUvjT2KZgQTMOJ4%22}"
+# PRISMA_SECRET="omgplzdonttellanyone"
+# APP_SECRET="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJjanNhMDJleGVtamt4MDg2MWV3aDFqbGhhIiwiaWF0IjoxNTUwNDczODAyLCJleHAiOjE1NTMwNjU4MDJ9.wD7AZtO8JSQhrE4j-otCIJwDfXRpe8Sypsg5kPMpulU"
+# STRIPE_SECRET="sk_123youchanget his"
+# PORT=4444
+# MAIL_HOST=smtp.mailtrap.io
+# MAIL_PORT=2525
+# MAIL_USER=e2a1ac0654fda2
+# MAIL_PASS=b928a9624f49a7
